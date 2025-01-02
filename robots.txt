@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://veikkoaj.github.io/publii-test/sitemap.xml
